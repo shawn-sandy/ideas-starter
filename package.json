@@ -15,7 +15,7 @@
     "fs": "0.0.1-security",
     "html-minifier": "^4.0.0",
     "lerna": "^3.20.2",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^3.1.1"
   },
   "auto-changelog": {
     "unreleased": true,
